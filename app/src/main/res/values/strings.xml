@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit App</string>
+    <string name="name">Enter your name</string>
+    <string name="job">Enter your job</string>
+    <string name="sendButton">Send Data to API</string>
+    <string name="textview">Response</string>
+</resources>
